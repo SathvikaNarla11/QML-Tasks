@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/bgImage.avif</file>
+        <file>Images/QmlBg.jfif</file>
+    </qresource>
+</RCC>

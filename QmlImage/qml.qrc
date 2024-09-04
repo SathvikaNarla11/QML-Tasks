@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/icons8-save-as-48.png</file>
+        <file>Images/lineConnects.png</file>
+        <file>Images/shapes.png</file>
+        <file>Images/QtLogo.png</file>
+    </qresource>
+</RCC>
